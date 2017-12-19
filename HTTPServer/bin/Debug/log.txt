@@ -1,0 +1,11 @@
+****************************
+12/20/2017 12:15:01 AM
+System.NotImplementedException: The method or operation is not implemented.
+   at HTTPServer.Server.HandleRequest(Request request) in e:\Template[2016-2017]\HTTPServer\Server.cs:line 96
+****************************
+ SocketError& errorCode)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at HTTPServer.Server.HandleConnection(Object obj) in e:\Template[2016-2017]\HTTPServer\Server.cs:line 74
+****************************
+0
+****************************

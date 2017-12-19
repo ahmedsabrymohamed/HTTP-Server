@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\Template[2016-2017]\HTTPServer\bin\Debug\HTTPServer.exe
+E:\Template[2016-2017]\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\Template[2016-2017]\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
+E:\Template[2016-2017]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\Template[2016-2017]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
